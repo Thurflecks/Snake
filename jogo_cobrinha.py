@@ -30,7 +30,7 @@ pontos = 0
 
 
 tela = pygame.display.set_mode((largura, altura))
-pygame.display.set_caption('JOGO')
+pygame.display.set_caption('Snake')
 relogio = pygame.time.Clock()
 lista_cobra = []
 comprimento_inicial = 5
